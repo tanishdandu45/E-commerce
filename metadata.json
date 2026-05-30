@@ -1,0 +1,6 @@
+{
+  "name": "Indian Shoes Store",
+  "description": "An e-commerce store for buying shoes customized with Indian locations and INR currency, featuring role-based access, product catalog, cart, checkout, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
